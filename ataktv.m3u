@@ -445,10 +445,6 @@ https://ataktvm3u.atakan-1983.workers.dev/fortunatv
 https://ataktvm3u.atakan-1983.workers.dev/kanal58
 #EXTINF:-1 group-title="YEREL" tvg-id="AfroTurkAgro.tr" tvg-logo="https://cdn.technettv.com/channel/29219/logo_256.png" ,AfroTurk Agro TV
 https://ataktvm3u.atakan-1983.workers.dev/afroturkagro
-#EXTINF:-1 group-title="YEREL" tvg-id="dimtv" tvg-logo="https://cdn.technettv.com/channel/20364/logo_256_1699957819.png" ,Dim TV
-https://ataktvm3u.atakan-1983.workers.dev/dimtv
-#EXTINF:-1 group-title="YEREL" tvg-id="on6tv" tvg-logo="https://cdn.technettv.com/channel/14834/logo_256_1699951540.png" ,ON6TV
-https://ataktvm3u.atakan-1983.workers.dev/on6tv
 #EXTINF:-1 group-title="YEREL" tvg-id="sunrtv" tvg-logo="https://cdn.technettv.com/channel/20574/logo_256_1699960664.png" ,SUNRT TV
 https://ataktvm3u.atakan-1983.workers.dev/sunrtv
 #EXTINF:-1 group-title="YEREL" tvg-id="meltemtv" tvg-logo="https://cdn.technettv.com/channel/28932/logo_256_1729734795.png" ,Meltem TV
@@ -459,12 +455,10 @@ https://ataktvm3u.atakan-1983.workers.dev/mercantv
 https://ataktvm3u.atakan-1983.workers.dev/kanal26
 #EXTINF:-1 group-title="YEREL" tvg-id="dehatv" tvg-logo="https://cdn.technettv.com/channel/20350/logo_256_1699949933.png" ,Deha TV
 https://ataktvm3u.atakan-1983.workers.dev/dehatv
-#EXTINF:-1 group-title="YEREL" tvg-id="etv" tvg-logo="https://cdn.technettv.com/channel/20406/logo_256_1699956907.png" ,ETV
-https://ataktvm3u.atakan-1983.workers.dev/etv
 #EXTINF:-1 group-title="YEREL" tvg-id="kanal23" tvg-logo="https://cdn.technettv.com/channel/20441/logo_256_1699958485.png" ,Kanal 23
 https://ataktvm3u.atakan-1983.workers.dev/kanal23
 #EXTINF:-1 group-title="YEREL" tvg-id="kanalz" tvg-logo="https://cdn.technettv.com/channel/20504/logo_256_1699959412.png" ,Kanal Z
-https://ataktvm3u.atakan-1983.workers.dev/kanalz
+https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8
 #EXTINF:-1 group-title="YEREL" tvg-id="diyartv" tvg-logo="https://cdn.technettv.com/channel/20371/logo_256_1699952750.png" ,Diyar TV
 https://ataktvm3u.atakan-1983.workers.dev/diyartv
 #EXTINF:-1 group-title="YEREL" tvg-id="koytv" tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/14624/thumb_Ko%CC%88y_Tv.jpeg" ,Köy TV
@@ -476,31 +470,27 @@ https://ataktvm3u.atakan-1983.workers.dev/estv
 #EXTINF:-1 group-title="YEREL" tvg-id="brtv" tvg-logo="https://cdn.technettv.com/channel/20329/logo_256_1727342706.jpg" ,FB TV
 https://ataktvm3u.atakan-1983.workers.dev/brtv
 #EXTINF:-1 group-title="YEREL" tvg-id="AnadoluNetTV.tr" tvg-logo="https://cdn.technettv.com/channel/20784/logo_256_1729734269.png" ,Anadolu Net TV
-https://ataktvm3u.atakan-1983.workers.dev/anadolunettv
+https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/chunks.m3u8
 #EXTINF:-1 group-title="YEREL" tvg-id="MalatyaVuslat.tr" tvg-logo="https://cdn.technettv.com/channel/20525/logo_256_1699959794.png" ,Malatya Vuslat TV
 https://ataktvm3u.atakan-1983.workers.dev/malatyavuslat
 #EXTINF:-1 group-title="YEREL" tvg-id="CiftciTV.tr" tvg-logo="https://cdn.technettv.com/channel/20343/logo_256_1699957670.png" ,Çiftçi TV
-https://ataktvm3u.atakan-1983.workers.dev/ciftcitv
-#EXTINF:-1 group-title="YEREL" tvg-id="TrakyaTurk.tr" tvg-logo="https://cdn.technettv.com/channel/15170/logo_256_1699961451.png" ,Trakya Türk TV
-https://ataktvm3u.atakan-1983.workers.dev/trakyaturk
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
 #EXTINF:-1 group-title="YEREL" tvg-id="IcelTV.tr" tvg-logo="https://cdn.technettv.com/channel/29527/logo_256_1733832393.jpg" ,İçel TV
 https://ataktvm3u.atakan-1983.workers.dev/iceltv
 #EXTINF:-1 group-title="YEREL" tvg-id="hunattv" tvg-logo="https://cdn.technettv.com/channel/20427/logo_256_1699958184.png" ,Hunat TV
-https://ataktvm3u.atakan-1983.workers.dev/hunattv
+https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/chunks.m3u8
 #EXTINF:-1 group-title="YEREL" tvg-id="kentturktv" tvg-logo="https://cdn.technettv.com/channel/20511/logo_256_1699959516.png" ,Kent Türk TV
-https://ataktvm3u.atakan-1983.workers.dev/kentturktv
+https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/chunks.m3u8
 #EXTINF:-1 group-title="YEREL" tvg-id="astv" tvg-logo="https://cdn.technettv.com/channel/20791/logo_256_1699966040.png" ,As TV
-https://ataktvm3u.atakan-1983.workers.dev/astv
+https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8
 #EXTINF:-1 group-title="YEREL" tvg-id="kanal3" tvg-logo="https://cdn.technettv.com/channel/20455/logo_256_1699958246.png" ,Kanal 3
 https://ataktvm3u.atakan-1983.workers.dev/kanal3
 #EXTINF:-1 group-title="YEREL" tvg-id="tv41" tvg-logo="https://cdn.technettv.com/channel/20644/logo_256_1707397609.png" ,TV41
 https://ataktvm3u.atakan-1983.workers.dev/tv41
 #EXTINF:-1 group-title="YEREL" tvg-id="grt" tvg-logo="https://cdn.technettv.com/channel/20777/logo_256_1699964967.png" ,GRT
 https://ataktvm3u.atakan-1983.workers.dev/grt
-#EXTINF:-1 group-title="YEREL" tvg-id="tva" tvg-logo="https://cdn.technettv.com/channel/20651/logo_256_1699962212.png" ,TVA
-https://ataktvm3u.atakan-1983.workers.dev/tva
 #EXTINF:-1 group-title="YEREL" tvg-id="kaytv" tvg-logo="https://cdn.technettv.com/channel/15205/logo_256_1699950337.png" ,Kay TV
-https://ataktvm3u.atakan-1983.workers.dev/kaytv
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/chunks.m3u8
 #EXTINF:-1 group-title="YEREL" tvg-id="kanal15" tvg-logo="https://cdn.technettv.com/channel/20434/logo_256_1699958409.png" ,Kanal 15
 https://ataktvm3u.atakan-1983.workers.dev/kanal15
 #EXTINF:-1 group-title="YEREL" tvg-id="erttv" tvg-logo="https://cdn.technettv.com/channel/20385/logo_256_1699956772.png" ,ERT TV
