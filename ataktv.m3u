@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="-"
+#EXTM3U
 #EXTINF:-1 group-title="ULUSAL" tvg-id="trt1" tvg-logo="https://cdn.technettv.com/channel/19958/logo_256_1699961525.png" ,TRT 1
 https://ataktvm3u.atakan-1983.workers.dev/trt1
 #EXTINF:-1 group-title="ULUSAL" tvg-id="trt2" tvg-logo="https://cdn.technettv.com/channel/20315/logo_256_1699961575.png" ,TRT 2
