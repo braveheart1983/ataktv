@@ -153,6 +153,8 @@ https://ataktvm3u.atakan-1983.workers.dev/trtspor
 https://ataktvm3u.atakan-1983.workers.dev/aspor
 #EXTINF:-1 group-title="SPOR" tvg-id="htspor" tvg-logo="https://cdn.technettv.com/channel/33545/logo_256.jpg" ,HT Spor
 https://ataktvm3u.atakan-1983.workers.dev/htsports
+#EXTINF:-1 group-title="SPOR" tvg-id="cbcsport" tvg-logo="https://upload.wikimedia.org/wikipedia/az/archive/0/04/20200227202418%21CBC_Sport_TV_loqo.png" ,CBC Sports
+https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-id="sportstv" tvg-logo="https://cdn.technettv.com/channel/33258/logo_256.jpg" ,Sports Tv
 https://ataktvm3u.atakan-1983.workers.dev/sportstv
 #EXTINF:-1 group-title="SPOR" tvg-id="trtsporyildiz" tvg-logo="https://www.trtspor.com.tr/images/logo.png" ,TRT Spor Yıldız
