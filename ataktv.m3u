@@ -119,6 +119,8 @@ https://proud-river-e20b.pantonum1.workers.dev/sinema.m3u8
 https://proud-river-e20b.pantonum1.workers.dev/sinema2.m3u8
 #EXTINF:-1 group-title="SİNEMA" tvg-id="sinema1001" tvg-name="Sinema 1001" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-1001-tr.png" ,Sinema 1001
 https://proud-river-e20b.pantonum1.workers.dev/sinema1001.m3u8
+#EXTINF:-1 group-title="SİNEMA" tvg-id="sinema1002" tvg-name="Sinema 1002" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-1002-tr.png" ,Sinema 1002
+https://proud-river-e20b.pantonum1.workers.dev/sinema1002.m3u8
 #EXTINF:-1 group-title="SİNEMA" tvg-id="TRTNostalji.tr" tvg-logo="https://www.trt.net.tr/logos/our-logos/corporate/trt.png" ,TRT Nostalji
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:-1 group-title="SİNEMA" tvg-id="- tvg-logo=" ,TV90
@@ -141,8 +143,6 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 https://ataktvm3u.atakan-1983.workers.dev/tv24
 #EXTINF:-1 group-title="SİNEMA" tvg-id="Dummy" tvg-logo="https://i.imgur.com/Ikrj3lk.png" ,Play tv
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
-#EXTINF:-1 group-title="SİNEMA" tvg-id="sinema1002" tvg-name="Sinema 1002" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-1002-tr.png" ,Sinema 1002
-https://proud-river-e20b.pantonum1.workers.dev/sinema1002.m3u8
 #EXTINF:-1 group-title="SİNEMA" tvg-id="tv4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfzAxOJwToKIF44orEOnWwlkK7ASq5zLq1TQ&s" ,TV 4
 https://stream-extractor.koprulu2.workers.dev/?url=https://www.parsatv.com/m/name=TV4&ext=m3u8
 #EXTINF:-1 group-title="SİNEMA" tvg-id="tivi6 tvg-logo=" ,Tivi6
