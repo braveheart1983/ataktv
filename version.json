@@ -1,7 +1,7 @@
 {
-    "versionCode": 3,
-    "versionName": "1.2",
+    "versionCode": 4,
+    "versionName": "1.3",
     "updateUrl": "https://raw.githubusercontent.com/braveheart1983/ataktv/main/ataktv.apk",
-    "changelog": "🆕 Yeni özellikler:\n- Rootlu cihazlarda çalışması sağlandı\n- Kanal Arama fonskiyonu eklendi\n- Hata düzeltmeleri yapıldı",
+    "changelog": "🆕 Yeni özellikler:\n- Vavoo Sistemi Eklendi\n- Kanalların hızlı açılması için iyileştirmeler yapıldı\n- Hata düzeltmeleri yapıldı",
     "forceUpdate": false
 }
