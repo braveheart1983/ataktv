@@ -1,7 +1,7 @@
 {
-    "versionCode": 5,
-    "versionName": "1.4",
+    "versionCode": 6,
+    "versionName": "1.5",
     "updateUrl": "https://raw.githubusercontent.com/braveheart1983/ataktv/main/ataktv.apk",
-    "changelog": "🆕 Yeni özellikler:\n- Vavoo Sistemi Eklendi\n- Kanalların hızlı açılması için iyileştirmeler yapıldı\n- Giriş Videosu kaldırıldı",
+    "changelog": "🆕 Yeni özellikler:\n- Güvenlik Güncelleştirmesi\n- Kanalların hızlı açılması için iyileştirmeler yapıldı\n- Performans artırıldı",
     "forceUpdate": false
 }
