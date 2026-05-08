@@ -3,5 +3,5 @@
     "versionName": "1.6",
     "updateUrl": "https://raw.githubusercontent.com/braveheart1983/ataktv/main/ataktv.apk",
     "changelog": "🆕 Yeni özellikler:\n- Tasarım Değiştirildi\n- Yeni tasarımda kumanda özellikleri artırıldı\n- Güncelleme indirme problemi çözüldü",
-    "forceUpdate": false
+    "forceUpdate": true
 }
