@@ -1,7 +1,7 @@
 {
-    "versionCode": 6,
-    "versionName": "1.5",
+    "versionCode": 7,
+    "versionName": "1.6",
     "updateUrl": "https://raw.githubusercontent.com/braveheart1983/ataktv/main/ataktv.apk",
-    "changelog": "🆕 Yeni özellikler:\n- Güvenlik Güncelleştirmesi Yapıldı\n- Kanalların hızlı açılması için iyileştirmeler yapıldı\n- Performans artırıldı",
+    "changelog": "🆕 Yeni özellikler:\n- Tasarım Değiştirildi\n- Yeni tasarımda kumanda özellikleri artırıldı\n- Güncelleme indirme problemi çözüldü",
     "forceUpdate": false
 }
