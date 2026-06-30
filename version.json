@@ -1,7 +1,7 @@
 {
-    "versionCode": 12,
-    "versionName": "2.0.1",
+    "versionCode": 13,
+    "versionName": "2.0.2",
     "updateUrl": "https://raw.githubusercontent.com/braveheart1983/ataktv/main/ataktv.apk",
-    "changelog": "🆕 Yeni özellikler:\n- Fire TV Stick ve emülatör desteği eklendi \n- ..\n- İyi seyirler",
+    "changelog": "🆕 Yeni özellikler:\n- Fire TV Stick desteği eklendi \n- ..\n- İyi seyirler",
     "forceUpdate": true
 }
