@@ -1,7 +1,7 @@
 {
-    "versionCode": 15,
-    "versionName": "2.0.4",
+    "versionCode": 16,
+    "versionName": "2.0.5",
     "updateUrl": "https://raw.githubusercontent.com/braveheart1983/ataktv/main/ataktv.apk",
-    "changelog": "🆕 Yeni özellikler:\n- Video Oynatıcıdaki Play/Pause problemi çözüldü  \n- Performans iyileştirmesi yapıldı..\n- İyi seyirler",
+    "changelog": "🆕 Yeni özellikler:\n- Çalışmayan Paneller kaldırıldı.. \n- Güvenlik sistemi değiştirildi..\n- İyi seyirler",
     "forceUpdate": true
 }
