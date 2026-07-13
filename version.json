@@ -1,7 +1,7 @@
 {
-    "versionCode": 16,
-    "versionName": "2.0.5",
+    "versionCode": 17,
+    "versionName": "2.0.6",
     "updateUrl": "https://raw.githubusercontent.com/braveheart1983/ataktv/main/ataktv.apk",
-    "changelog": "🆕 Yeni özellikler:\n- Çalışmayan Paneller kaldırıldı.. \n- Güvenlik sistemi değiştirildi..\n- İyi seyirler",
+    "changelog": "🆕 Yeni özellikler:\n- Panel kısmınına yeni Canlı TV Kaynağı eklendi. \n- Performans İyileştirmesi Yapıldı..\n- İyi seyirler",
     "forceUpdate": true
 }
