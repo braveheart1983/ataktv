@@ -1,7 +1,7 @@
 {
-    "versionCode": 19,
-    "versionName": "2.0.8",
+    "versionCode": 20,
+    "versionName": "2.0.9",
     "updateUrl": "https://raw.githubusercontent.com/braveheart1983/ataktv/main/ataktv.apk",
-    "changelog": "🆕 Yeni özellikler:\n- BoruTV lisansı yenilendi. \n- Paneller kısmında yeni kaynaklar eklendi..\n- İyi seyirler",
+    "changelog": "🆕 Yeni özellikler:\n- Sunucu Problemi düzeltildi. \n- Paneller kısmındaki çalışmayan kaynaklar düzeltildi..\n- İyi seyirler",
     "forceUpdate": true
 }
