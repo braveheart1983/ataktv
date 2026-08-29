@@ -1,7 +1,7 @@
 {
-    "versionCode": 20,
-    "versionName": "2.0.9",
+    "versionCode": 21,
+    "versionName": "2.0.10",
     "updateUrl": "https://raw.githubusercontent.com/braveheart1983/ataktv/main/ataktv.apk",
-    "changelog": "🆕 Yeni özellikler:\n- Sunucu Problemi düzeltildi. \n- Paneller kısmındaki çalışmayan kaynaklar düzeltildi..\n- İyi seyirler",
+    "changelog": "🆕 Yeni özellikler:\n- Boncuk TV Panel kanal oynatma problemi giderildi. \n- Performans iyileştirmesi yapıldı..\n- Daha iyi bir seyir için Güvenli interneti Kapatın ve DNS olarak 1.1.1.1 ayarlayın",
     "forceUpdate": true
 }
