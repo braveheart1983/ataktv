@@ -1,7 +1,7 @@
 {
-    "versionCode": 23,
-    "versionName": "2.0.12",
+    "versionCode": 24,
+    "versionName": "2.0.13",
     "updateUrl": "https://raw.githubusercontent.com/braveheart1983/ataktv/main/ataktv.apk",
-    "changelog": "🆕 Yeni özellikler:\n- Panellere girme problemi giderildi. \n- Performans iyileştirmesi yapıldı..\n- Daha iyi bir seyir için Güvenli interneti Kapatın ve DNS olarak 1.1.1.1 ayarlayın",
+    "changelog": "🆕 Yeni özellikler:\n- Kablo TV girişi düzeltildi. \n- Yeni lisan aktif edildi..\n- Daha iyi bir seyir için Güvenli interneti Kapatın ve DNS olarak 1.1.1.1 ayarlayın",
     "forceUpdate": true
 }
