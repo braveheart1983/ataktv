@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="trt1" tvg-name="TRT 1" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/22938_0-0-1500-1500.png" group-title="TABİİ",TRT 1
+https://trt.daioncdn.net/trt-1/master.m3u8?app=clean
+#EXTINF:-1 tvg-id="trt2" tvg-name="TRT 2" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/22942_0-0-1500-1500.png" group-title="TABİİ",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="trtspor" tvg-name="TRT Spor" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/22961_0-0-1500-1500.png" group-title="TABİİ Spor",TRT Spor
+https://trt.daioncdn.net/trtspor/master.m3u8?app=clean
+#EXTINF:-1 tvg-id="trthaber" tvg-name="TRT Haber" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/22979_0-0-1500-1500.png" group-title="TABİİ",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="trtsporyildiz" tvg-name="TRT Spor Yıldız" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/22956_0-0-1500-1500.png" group-title="TABİİ Spor",TRT Spor Yıldız
+https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=clean
+#EXTINF:-1 tvg-id="trtcocuk" tvg-name="TRT Çocuk" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/22984_0-0-1500-1500.png" group-title="TABİİ",TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="trtworld" tvg-name="TRT World" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/22947.png" group-title="TABİİ",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="trtbelgesel" tvg-name="TRT Belgesel" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/22988_0-0-1500-1500.png" group-title="TABİİ",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="trtmuzik" tvg-name="TRT Müzik" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/22966_0-0-1500-1500.png" group-title="TABİİ",TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="trtturk" tvg-name="TRT Türk" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/22951_0-0-1500-1500.png" group-title="TABİİ",TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="trtkurdi" tvg-name="TRT Kurdî" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/22975_0-0-1500-1500.png" group-title="TABİİ",TRT Kurdî
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="trtarabi" tvg-name="TRT Arabi" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/22996_0-0-1500-1500.png" group-title="TABİİ",TRT Arabi
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="trtavaz" tvg-name="TRT Avaz" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/51339_0-0-720-720.png" group-title="TABİİ",TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="trtdiyanetcocuk" tvg-name="TRT Diyanet Çocuk" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/24238_0-0-467-262.png" group-title="TABİİ",TRT Diyanet Çocuk
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="trteba" tvg-name="TRT EBA TV" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/34581_0-0-2559-651.jpeg" group-title="TABİİ",TRT EBA TV
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="trtgenc" tvg-name="TRT Genç" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/60307_0-0-1500-1500.png" group-title="TABİİ",TRT Genç
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="tabiispor" tvg-name="Tabii Spor" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43022.png" group-title="TABİİ Spor",Tabii Spor
+https://kL9mR2vXw7nQ5pY1sH4tJ3gB6.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="tabiispor1" tvg-name="Tabii Spor 1" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43216_0-0-1500-1500.png" group-title="TABİİ Spor",Tabii Spor 1
+https://Pz4qT7nW1mR9sH2vL5xK8jG3y.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="tabiispor2" tvg-name="Tabii Spor 2" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43211_0-0-1500-1500.png" group-title="TABİİ Spor",Tabii Spor 2
+https://mR8bV4kL1nQ7sH9tW2xP5zJ6g.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="tabiispor3" tvg-name="Tabii Spor 3" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43212_0-0-1500-1500.png" group-title="TABİİ Spor",Tabii Spor 3
+https://mR4vL7nQ2sH9tW5xP1zK3gJ8b.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="tabiispor4" tvg-name="Tabii Spor 4" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43213_0-0-1500-1500.png" group-title="TABİİ Spor",Tabii Spor 4
+https://sH7tQ2nW5mR1vL9xP4zK3gJ8k.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="tabiispor5" tvg-name="Tabii Spor 5" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43214_0-0-1500-1500.png" group-title="TABİİ Spor",Tabii Spor 5
+https://vL2nQ8sH4tW1mR7xP5zK9gJ3y.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="tabiispor6" tvg-name="Tabii Spor 6" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43215_0-0-1500-1500.png" group-title="TABİİ Spor",Tabii Spor 6
+https://nW5mR1vL9xP4zK2sH7tQ3gJ6b.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="tabiispor7" tvg-name="Tabii Spor 7" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/51611_0-0-1500-1500.png" group-title="TABİİ Spor",Tabii Spor 7
+https://Pz2rT7nW1mR9sH4vL6xK3gJ5b.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="tabiispor8" tvg-name="Tabii Spor 8" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/60593_0-0-1500-1500.png" group-title="TABİİ Spor",Tabii Spor 8
+https://vL9nQ2sH5tW1mR7xP4zK8gJ3k.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="tabiitv" tvg-name="Tabii TV" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/45154_0-0-1500-1500.png" group-title="TABİİ",Tabii TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
