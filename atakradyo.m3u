@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1 group-title="📻Radyo" tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png",AŞK FM
+http://yayin.asymedya.com:8020/1;
+#EXTINF:-1 group-title="📻Radyo" tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png",Radyo Megasite
+https://stream.netradyom.com/listen/megasite/radio.mp3
+#EXTINF:-1 group-title="📻Radyo" tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png",90'lar FM
+https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8
+#EXTINF:-1 group-title="📻Radyo" tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png",A Spor Radyo
+https://trkvz-radyolar.ercdn.net/asporradyo/chunklist.m3u8
+#EXTINF:-1 group-title="📻Radyo" tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png",Ankara Havaları
+https://moondigitalmaster.radyotvonline.net/ankarahavalari/playlist.m3u8
+#EXTINF:-1 group-title="📻Radyo" tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png",Arabeskland
+https://moondigitalmaster.radyotvonline.net/arabeskland/playlist.m3u8
+#EXTINF:-1 group-title="📻Radyo" tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png",Baba Radyo
+https://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8
+#EXTINF:-1 group-title="📻Radyo" tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png",Best FM
+https://wowza1.radyotvonline.com/best/bestfm.stream/playlist.m3u8
+#EXTINF:-1 group-title="📻Radyo" tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png",Doksanlar
+https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8
+#EXTINF:-1 group-title="📻Radyo" tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png",Ege Havaları
+https://moondigitalmaster.radyotvonline.net/egehavalari/playlist.m3u8
+#EXTINF:-1 group-title="📻Radyo" tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png",Eksen Radyo
+https://dygedge.radyotvonline.net/radyoeksen/playlist.m3u8
+#EXTINF:-1 group-title="📻Radyo" tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png",Fenomen Türk
+https://live.radyofenomen.com/fenomenturk/abr/playlist.m3u8
+#EXTINF:-1 group-title="📻Radyo" tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png",Fenerbahçe FM
+https://ssl4.radyotvonline.com/radyohome/radyofenerbahcehome.stream_aac/playlist.m3u8
+#EXTINF:-1 group-title="📻Radyo" tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png",Kafa Radyo
+https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8
+#EXTINF:-1 group-title="📻Radyo" tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png",Karadeniz FM
+https://moondigitalmaster.radyotvonline.net/karadenizfm/playlist.m3u8
+#EXTINF:-1 group-title="📻Radyo" tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png",Kral Pop
+https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/chunklist_w1813872028_b128000.m3u8
+#EXTINF:-1 group-title="📻Radyo" tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png",Kral Fm
+https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
+#EXTINF:-1 group-title="📻Radyo" tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png",Ntv Radyo
+https://dygedge.radyotvonline.net/ntvradyo/playlist.m3u8
+#EXTINF:-1 group-title="📻Radyo" tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png",Pal Nostalji
+https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8
+#EXTINF:-1 group-title="📻Radyo" tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png",Pal Station
+https://ssl4.radyotvonline.com/radyohome/palstationhome.stream_aac/chunklist_w2023793209.m3u8
+#EXTINF:-1 group-title="📻Radyo" tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png",Power FM
+https://live.powerapp.com.tr/powerfmadver/abr/playlist.m3u8
+#EXTINF:-1 group-title="📻Radyo" tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png",Power Pop
+https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8
+#EXTINF:-1 group-title="📻Radyo" tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png",Power Türk
+https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
+#EXTINF:-1 group-title="📻Radyo" tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png",Radyo D
+https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
+#EXTINF:-1 group-title="📻Radyo" tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png",Radyo Spor
+https://ssl4.radyotvonline.com/radyohome/radyosporhome.stream_aac/playlist.m3u8
+#EXTINF:-1 group-title="📻Radyo" tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png",Radyo Voyage
+https://ssldyg.radyotvonline.com/pozitif/smil:voyage.smil/playlist.m3u8
+#EXTINF:-1 group-title="📻Radyo" tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png",Rockland
+https://moondigitaledge.radyotvonline.net/rockland/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png" group-title="📻Radyo",TRT Radyo 1 
+https://trt.radyotvonline.net/trt1
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png" group-title="📻Radyo",TRT FM 
+https://trt.radyotvonline.net/trtfm
+#EXTINF:-1 group-title="📻Radyo" tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png",TRT Memleketim FM
+https://radio-trtmemleketimfm.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="📻Radyo" tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png",TRT Türkiye'nin Sesi
+https://radio-trttsr.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png" group-title="📻Radyo",TRT Nağme 
+https://rd-trtnagme.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png" group-title="📻Radyo",TRT Türkü 
+https://rd-trtturku.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png" group-title="📻Radyo",TRT Radyo 3 
+https://rd-trtradyo3.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="📻Radyo" tvg-logo="https://png.pngtree.com/png-vector/20220415/ourmid/pngtree-radio-logo-icon-vector-illustration-retro-sound-signal-vector-png-image_36074836.png",Voyage Radyo
+https://dygedge.radyotvonline.net/radyovoyage/playlist.m3u8
