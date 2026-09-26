@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/braveheart1983/ataktv/refs/heads/main/images/YouTube.png" group-title="Youtube",Deneme Halktv
-https://www.youtube.com/watch?v=jHMsvYrf-UA
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/braveheart1983/ataktv/refs/heads/main/images/YouTube.png" group-title="Youtube",Deneme film
-https://www.youtube.com/watch?v=zMWWUXn6pGA
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ztmY_cCtUl0/hq720.jpg?v=665066ae&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEJQArbOSaRLKpmO2V6KKxGmxp8w" group-title="Türk Canlı & Dizi",SÖZCÜ Televizyonu
 https://www.youtube.com/watch?v=ztmY_cCtUl0
 
