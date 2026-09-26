@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="🇹🇷 ULUSAL" tvg-id="trt1" tvg-logo="https://cdn.technettv.com/channel/19958/logo_256_1699961525.png" ,TRT 1
+https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL" tvg-id="trt2" tvg-logo="https://cdn.technettv.com/channel/20315/logo_256_1699961575.png" ,TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="🇹🇷 ULUSAL" tvg-id="show" tvg-logo="https://cdn.technettv.com/channel/29716/logo_256_1734935547.jpg" ,Show
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
