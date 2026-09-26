@@ -1,0 +1,154 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/braveheart1983/ataktv/refs/heads/main/images/YouTube.png" group-title="Youtube",Deneme Halktv
+https://www.youtube.com/watch?v=jHMsvYrf-UA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/braveheart1983/ataktv/refs/heads/main/images/YouTube.png" group-title="Youtube",Deneme film
+https://www.youtube.com/watch?v=zMWWUXn6pGA
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ztmY_cCtUl0/hq720.jpg?v=665066ae&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEJQArbOSaRLKpmO2V6KKxGmxp8w" group-title="Türk Canlı & Dizi",SÖZCÜ Televizyonu
+https://www.youtube.com/watch?v=ztmY_cCtUl0
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6N8_r2uwLEc/hq720.jpg?v=68b9591b&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcjYs_M2PJFuyeHUYL7FEJ_Z6dCQ" group-title="Türk Canlı & Dizi",CNN TÜRK
+https://www.youtube.com/watch?v=6N8_r2uwLEc
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jHMsvYrf-UA/hq720.jpg?v=6a2acc55&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEX68WPsJ_ijYfjh_iSvUEuOCCWw" group-title="Türk Canlı & Dizi",Halktv
+https://www.youtube.com/watch?v=jHMsvYrf-UA
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/pqq5c6k70kk/hq720.jpg?v=68de0f1b&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoIedhR8hFUWeNVTUoQfiWyhGIKA" group-title="Türk Canlı & Dizi",NTV
+https://www.youtube.com/watch?v=pqq5c6k70kk
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/crwxJBQKWj4/hq720.jpg?v=67bc144d&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCw8Bck_GjLYEB7USBPs6gjU8PXiA" group-title="Türk Canlı & Dizi",Yaprak Dökümü
+https://www.youtube.com/watch?v=crwxJBQKWj4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/JpP13Wp1ke0/hq720.jpg?v=67bc139a&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYI9NkdJYdt4tIKZcktXnYA_RQEw" group-title="Türk Canlı & Dizi",Aşk
+https://www.youtube.com/watch?v=JpP13Wp1ke0
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/z097jPyKeeo/hq720.jpg?v=69dfa04b&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0VRHotMslAA31iplVNhlaJjvl0w" group-title="Türk Canlı & Dizi",Radyo Dinle
+https://www.youtube.com/watch?v=z097jPyKeeo
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/j7B_zsL11Pw/hq720.jpg?v=6a91107d&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRKy-86ce-coMvkr74mYCZSdwHkQ" group-title="Türk Canlı & Dizi",BloombergHT
+https://www.youtube.com/watch?v=j7B_zsL11Pw
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GefoJ-LXYfc/hq720.jpg?v=6ab12836&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjUOMuoAtBohjubIn2jgGEHc5ldg" group-title="Türk Canlı & Dizi",TRT Haber
+https://www.youtube.com/watch?v=GefoJ-LXYfc
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RNVNlJSUFoE/hq720.jpg?v=694fd5fd&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClu5kh9NkrC5JqCHrlkvMporDR4Q" group-title="Türk Canlı & Dizi",Habertürk TV
+https://www.youtube.com/watch?v=RNVNlJSUFoE
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/XFLDi8EK7FQ/hq720.jpg?v=695f7665&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8VWEeQE30pRm0rcOnKI-QE8wLtw" group-title="Türk Canlı & Dizi",Radyo Dinle
+https://www.youtube.com/watch?v=XFLDi8EK7FQ
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/EqoCJ8BPxtE/hq720.jpg?v=68e66bf0&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXxBBU-gTw725dpzBw5-r9b4Kjxw" group-title="Türk Canlı & Dizi",Haber Global
+https://www.youtube.com/watch?v=EqoCJ8BPxtE
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9pGruMw_21g/hq720.jpg?v=6a8fde3a&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArA7UF3UKAffwKfCP_PRvQgqQlMg" group-title="Türk Canlı & Dizi",A Haber
+https://www.youtube.com/watch?v=9pGruMw_21g
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6He9sFxFv8Y/hq720.jpg?v=695fbef5&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFtZUkdVAkJ6vCeX8UZ2CVVgUwWg" group-title="Türk Canlı & Dizi",Kral Müzik
+https://www.youtube.com/watch?v=6He9sFxFv8Y
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NGsjOrzwjZk/hq720.jpg?v=69552253&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-2nACNcF1zt6cVidUvq_84WNlgw" group-title="Türk Canlı & Dizi",Avrupa Yakası
+https://www.youtube.com/watch?v=NGsjOrzwjZk
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/t9Ilev-uk4w/hq720.jpg?v=678f7f9c&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGCuDVS9BCyNg-JLmB4b5E9XNSKA" group-title="Türk Canlı & Dizi",Настоящее Время
+https://www.youtube.com/watch?v=t9Ilev-uk4w
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/4WSvLRk83-c/hq720.jpg?v=6a339919&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzW2CcPgTTZIfZPP49-raIZ-zLIw" group-title="Türk Canlı & Dizi",TV100
+https://www.youtube.com/watch?v=4WSvLRk83-c
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-zSaswVrQ_M/hq720.jpg?v=6ab2fdd9&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC14GWGjnG8-ZPZeA25fm5dLqAtTw" group-title="Türk Canlı & Dizi",A Spor
+https://www.youtube.com/watch?v=-zSaswVrQ_M
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/WX29nlgdqho/hq720.jpg?v=6a33df17&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfR4tBl3iWW0OWE94_T4HzmCbebA" group-title="Türk Canlı & Dizi",TGRT Haber TV
+https://www.youtube.com/watch?v=WX29nlgdqho
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N1VogsSbe6M/hq720.jpg?v=69393d78&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaQ67xkqSJd7waEKfeCQE89lj91g" group-title="Türk Canlı & Dizi",Radyo Dinle
+https://www.youtube.com/watch?v=N1VogsSbe6M
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xDWQ3LkccY8/hq720.jpg?v=6a8fca17&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvQ1BXCa1xmO_gsAWXsdh3gN0Pew" group-title="Türk Canlı & Dizi",Sky News
+https://www.youtube.com/watch?v=xDWQ3LkccY8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QB5BNdBFujE/hq720.jpg?v=6a2e8319&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4AS1xuN_omsnxrHH9Q-TSde0ATA" group-title="Türk Canlı & Dizi",Bloomberg Television
+https://www.youtube.com/watch?v=QB5BNdBFujE
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IxYKhBl678M/hq720.jpg?v=6a914483&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtZwH8uaM0kpOgpboXDDW3VdsaJg" group-title="Türk Canlı & Dizi",Sihirli Annem
+https://www.youtube.com/watch?v=IxYKhBl678M
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9LOEyR_lsNk/hq720.jpg?v=6aa7e772&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDR9U8GKHnPcF2gu1jvGT2ZsoGViA" group-title="Türk Canlı & Dizi",Kurtlar Vadisi Pusu
+https://www.youtube.com/watch?v=9LOEyR_lsNk
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QXTh9Vqzc18/hq720.jpg?v=6a3e2ffe&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDi28ikrFfB6cmGceBh647RH-5aEA" group-title="Türk Canlı & Dizi",Kızılcık Şerbeti
+https://www.youtube.com/watch?v=QXTh9Vqzc18
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/qGYlF1MiMxw/hq720.jpg?v=690e4bc3&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDskaQH4TdutFRQSbALoK7IcRMGMg" group-title="Türk Canlı & Dizi",Seksenler
+https://www.youtube.com/watch?v=qGYlF1MiMxw
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NsQcL37_tkI/hq720.jpg?v=6a8c17f4&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJ4Y1KjDtVfc02Bxy9xhb722d0rA" group-title="Türk Canlı & Dizi",Eşkıya Dünyaya Hükümdar Olmaz
+https://www.youtube.com/watch?v=NsQcL37_tkI
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/yu2-hTNkr6c/hq720.jpg?v=6a856e79&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfIBisRyHmLmhfuHujJOpQoCxF1w" group-title="Türk Canlı & Dizi",Medcezir Dizi
+https://www.youtube.com/watch?v=yu2-hTNkr6c
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/XPy9T3ePqoQ/hq720.jpg?v=6a858218&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeme0lwUWNbnnPevAUq9DJn_eivQ" group-title="Türk Canlı & Dizi",Behzat Ç.
+https://www.youtube.com/watch?v=XPy9T3ePqoQ
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rS5dHYQsSxs/hq720.jpg?v=670cd57a&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDM2Cnreu2Hd2aSF4MBVOmAgsjB5g" group-title="Türk Canlı & Dizi",Yedi Numara
+https://www.youtube.com/watch?v=rS5dHYQsSxs
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/JRQGif7Y7Kg/hq720.jpg?v=6947ce12&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdKfiaQR1QTXcj3AmuFpUXjOdSGg" group-title="Türk Canlı & Dizi",Sercan Uca
+https://www.youtube.com/watch?v=JRQGif7Y7Kg
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Efh06uzzORM/hq720.jpg?v=6a1fc971&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmv7-nHNrV6hvzYDtYkf8U2GbZDg" group-title="Türk Canlı & Dizi",Yalan Dünya
+https://www.youtube.com/watch?v=Efh06uzzORM
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nZntWwlV3BA/hq720.jpg?v=6a803c7d&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCf-yBdOBRLAXuKl8eW9fHEUwJhfg" group-title="Türk Canlı & Dizi",Çukur
+https://www.youtube.com/watch?v=nZntWwlV3BA
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3kTcvGWaO3Q/hq720.jpg?v=6707cd92&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEHFEijhL425LWjMpn9co1CnB2Lw" group-title="Türk Canlı & Dizi",Zengin Kız Fakir Oğlan
+https://www.youtube.com/watch?v=3kTcvGWaO3Q
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1lyLi6l74fs/hq720.jpg?v=67d41564&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDr_nxXE3Y6pJYjQiTsHaBa_KF6zQ" group-title="Türk Canlı & Dizi",Selena
+https://www.youtube.com/watch?v=1lyLi6l74fs
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/avDRwKKjeSI/hq720.jpg?v=6814cf69&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtRFV2UwnXVIUr-41gaWprxdhNFQ" group-title="Türk Canlı & Dizi",Alemin Kıralı
+https://www.youtube.com/watch?v=avDRwKKjeSI
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NqbUZyS58u8/hq720.jpg?v=6a7edbea&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBohWqR05TPnV36a8JBbw3OnxhDMw" group-title="Türk Canlı & Dizi",ARZU FİLM
+https://www.youtube.com/watch?v=NqbUZyS58u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3nlND4audLg/hq720.jpg?v=66f29a55&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuyhm0CwPsnI5yBXMFiDBCue8EHg" group-title="Türk Canlı & Dizi",Leyla ile Mecnun
+https://www.youtube.com/watch?v=3nlND4audLg
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ofw2CpH0aw0/hq720.jpg?v=6a7edca6&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXmDV101R8vENZ1O49heH4O56AHg" group-title="Türk Canlı & Dizi",Sıfır Bir
+https://www.youtube.com/watch?v=ofw2CpH0aw0
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jvC6-s5exnI/hq720.jpg?v=690e4b2e&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrh9FYkp0t4nsUXbGSdQ8njV5vJQ" group-title="Türk Canlı & Dizi",TRT Nostalji
+https://www.youtube.com/watch?v=jvC6-s5exnI
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-vVs9H5Qj6w/hq720.jpg?v=6a06cecc&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmlILfoWtmSDKH43u8WLsecsb6Nw" group-title="Türk Canlı & Dizi",KARDEŞLERİM
+https://www.youtube.com/watch?v=-vVs9H5Qj6w
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Zg7v9Of1l9c/hq720.jpg?v=6a914426&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABd1LaZXrtadguqOhqG4pbjihWYw" group-title="Türk Canlı & Dizi",Kuzey Güney
+https://www.youtube.com/watch?v=Zg7v9Of1l9c
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xJcM42dOpzA/hq720.jpg?v=6aa1661c&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAChalodrsWOHXmY34LkvVmbKiaA" group-title="Türk Canlı & Dizi",Kanal 7 Canlı Yayın
+https://www.youtube.com/watch?v=xJcM42dOpzA
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6SkIsrCIPfQ/hq720.jpg?v=698c247a&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-NKhvrjJx1zok2Br8988YQeFA_w" group-title="Türk Canlı & Dizi",TRT Nostalji
+https://www.youtube.com/watch?v=6SkIsrCIPfQ
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LrXSGDCnmnQ/hq720.jpg?v=66f273c0&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxFYZWHBsr_EinnW3vRTulhjUbGA" group-title="Türk Canlı & Dizi",Sakarya Fırat
+https://www.youtube.com/watch?v=LrXSGDCnmnQ
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/4hTBFiPxHYw/hq720.jpg?v=6ab0db64&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCz4rqEahlQnvl8BRq4R51goZfEUw" group-title="Türk Canlı & Dizi",Çocuklar Duymasın
+https://www.youtube.com/watch?v=4hTBFiPxHYw
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/b4U9nt3s128/hqdefault.jpg?v=6a8300e8&sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5rIl-rirslnZPnZHFKmtnTMMJPg" group-title="Türk Canlı & Dizi",Emret Komutanım
+https://www.youtube.com/watch?v=b4U9nt3s128
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_ibR8kTKpE8/hq720.jpg?v=698f0e12&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbyPW-pSA13UIv1lJxW4oiVjKgow" group-title="Türk Canlı & Dizi",Sazphoria
+https://www.youtube.com/watch?v=_ibR8kTKpE8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6iTXnuBXXqI/hq720.jpg?v=6a7db522&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5UZ8VFn3mwzYmc-tASECGUPmZ6w" group-title="Türk Canlı & Dizi",Güldür Güldür
+https://www.youtube.com/watch?v=6iTXnuBXXqI
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/D0biEf4VlxU/hq720.jpg?v=6a43ae4e&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkM7YERy-B6a5CGIIC1JJYmyKosA" group-title="Türk Canlı & Dizi",Kanal D Arşiv
+https://www.youtube.com/watch?v=D0biEf4VlxU
