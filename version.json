@@ -1,6 +1,6 @@
 {
-    "versionCode": 24,
-    "versionName": "2.0.13",
+    "versionCode": 25,
+    "versionName": "2.0.14",
     "updateUrl": "https://raw.githubusercontent.com/braveheart1983/ataktv/main/ataktv.apk",
     "changelog": "🆕 Yeni özellikler:\n- Panel kısmı şifresi kaldırıldı. \n- Yeni bölümler eklendi..\n- Daha iyi bir seyir için Güvenli interneti Kapatın ve DNS olarak 1.1.1.1 ayarlayın",
     "forceUpdate": true
