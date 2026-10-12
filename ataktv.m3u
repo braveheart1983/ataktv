@@ -56,7 +56,7 @@ http://5.178.103.239:55/yt1/szctv.m3u8
 #EXTINF:-1 group-title="📢 HABER" tvg-id="ahaber" tvg-logo="https://w7.pngwing.com/pngs/888/698/png-transparent-turkey-a-haber-news-a-spor-trt-haber-dijital-television-text-logo-thumbnail.png" ,A HABER HD
 https://www.canlitv.tech/hls/ahaber.m3u8
 #EXTINF:-1 group-title="📢 HABER" tvg-id="anews" tvg-logo="https://cdn.technettv.com/channel/22954/logo_256_1707397466.png" ,A News
-https://square-leaf-d613.panorea1000.workers.dev/?xml=ch750
+
 #EXTINF:-1 group-title="📢 HABER" tvg-id="haberglobal" tvg-logo="https://i.haberglobal.com/storage/files/images/2022/01/11/mikrofon-logo-1-1-QENs.png" ,Haber Global
 http://5.178.103.239:55/yt1/hb.m3u8
 #EXTINF:-1 group-title="📢 HABER" tvg-id="haberturktv" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/03/Haberturk.com_logo.jpg" ,Haber Turk
@@ -78,7 +78,7 @@ https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 #EXTINF:-1 group-title="📢 HABER" tvg-id="cnbce" tvg-logo="https://s.cnbce.com/dist/images/logo.png" ,CNBC-e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 group-title="📢 HABER" tvg-id="akit" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/cf/Akit_TV.png" ,Akit
-https://ytstream.atakannn1983.workers.dev/suNWTzwYq7E.m3u8
+
 #EXTINF:-1 group-title="📢 HABER" tvg-id="olayturk" tvg-logo="https://cdn.technettv.com/channel/15219/logo_256_1699951464.png" ,OlayTürk
 https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/chunks.m3u8
 #EXTINF:-1 group-title="📢 HABER" tvg-id="ilketv" tvg-logo="https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png" ,İlke TV
