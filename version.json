@@ -1,7 +1,7 @@
 {
-    "versionCode": 26,
-    "versionName": "2.0.15",
+    "versionCode": 27,
+    "versionName": "2.0.16",
     "updateUrl": "https://raw.githubusercontent.com/braveheart1983/ataktv/main/ataktv.apk",
-    "changelog": "🆕 Yeni özellikler:\n- Boru TV lisans yenilemesi yapıldı. \n- Boncuk TV kanalları tekrar aktif..\n- Paneller kısmındaki Video izleme ekranı yeniden düzenlendi yayınları ileri geri alabilirsiniz.",
+    "changelog": "🆕 Yeni özellikler:\n- Çalışmayan Paneller kaldırıldı. \n- Youtube TV artık native player desteği geldi ..\n- İyi seyirler",
     "forceUpdate": true
 }
