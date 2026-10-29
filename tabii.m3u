@@ -4,7 +4,7 @@ https://trt.daioncdn.net/trt-1/master.m3u8?app=clean
 #EXTINF:-1 tvg-id="trt2" tvg-name="TRT 2" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/22942_0-0-1500-1500.png" group-title="TABİİ",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="trtspor" tvg-name="TRT Spor" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/22961_0-0-1500-1500.png" group-title="TABİİ Spor",TRT Spor
-https://trt.daioncdn.net/trtspor/master.m3u8?app=clean
+https://trt.daioncdn.net/trtspor/master.m3u8?app=web&platform=trtspor
 #EXTINF:-1 tvg-id="trthaber" tvg-name="TRT Haber" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/22979_0-0-1500-1500.png" group-title="TABİİ",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="trtsporyildiz" tvg-name="TRT Spor Yıldız" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/22956_0-0-1500-1500.png" group-title="TABİİ Spor",TRT Spor Yıldız
