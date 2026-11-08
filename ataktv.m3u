@@ -48,7 +48,7 @@ https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
 #EXTINF:-1 group-title="🇹🇷 ULUSAL" tvg-id="tytturk" tvg-logo="https://cdn.technettv.com/channel/34049/logo_256.jpg" ,TYT Türk
 https://tytturk-live.ercdn.net/tytturk/tytturk.m3u8
 #EXTINF:-1 group-title="📢 HABER" tvg-id="kozatv" tvg-logo="https://resmim.net/cdn/2026/10/20/HNnZ1G.png",Koza TV
-http://176.65.153.35:6003/play/a019/index.m3u8
+https://live.artidijitalmedya.com/artidijital_kozatv/kozatv/chunks.m3u8
 #EXTINF:-1 group-title="📢 HABER" tvg-id="trthaber" tvg-logo="https://cdn.technettv.com/channel/20623/logo_256_1699961936.png" ,TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="📢 HABER" tvg-id="halktv" tvg-logo="https://cdn.technettv.com/channel/22975/logo_256_1707397382.png" ,Halk TV
