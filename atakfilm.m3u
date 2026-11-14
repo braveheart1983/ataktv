@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="Yeni Eklenenler" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjI5MzdmODctYjA4NS00ZmMxLWJlOWUtOGVhMjA0OGMxMWYzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg", Jumanji: Welcome to the Jungle
+#EXTINF:-1 group-title="Yeni Eklenenler" tvg-logo="https://static.wikia.nocookie.net/jumanji/images/1/1b/Jumanji_2017_Poster.jpg",Jumanji: Welcome to the Jungle
 https://ha.vixolity.com/vs/tt2283362/
+#EXTINF:-1 group-title="Yeni Eklenenler" tvg-logo="https://static.wikia.nocookie.net/jumanji/images/2/25/Jumanji_The_Next_Level_Final_Poster.jpg",Jumanji: The Next Level
+https://ha.vixolity.com/vs/tt7975244/
 #EXTINF:-1 group-title="Yeni Eklenenler" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Spider-Man: Brand New Day
 https://ha.vixolity.com/vs/tt22084616/
 #EXTINF:-1 group-title="Yeni Eklenenler" tvg-logo="--", Coyote Acmeye Karşı
