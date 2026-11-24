@@ -1,7 +1,7 @@
 {
-    "versionCode": 28,
-    "versionName": "2.0.17",
+    "versionCode": 29,
+    "versionName": "2.0.18",
     "updateUrl": "https://raw.githubusercontent.com/braveheart1983/ataktv/main/ataktv.apk",
-    "changelog": "🆕 Yeni özellikler:\n- Youtube TV kumanda kontrolü eklendi.. \n- Performans iyileştirmesi yapıldı..\n- İyi seyirler",
+    "changelog": "🆕 Yeni özellikler:\n- Vavoo Dünya Kanalları sisteme entegre edildi.. \n- VPN ve Ayar yapmadan direk izleyebilirsiniz..\n- İyi seyirler",
     "forceUpdate": true
 }
